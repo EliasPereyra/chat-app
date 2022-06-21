@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 # Chat App
 
 This is a chat app built with React.js and [ChatEngine](https://chatengine.io/). It allows you to make different rooms for chatting, and upload images.
-=======
-# Chat app
-It's an app that uses the CheatEngine library and allows you to have different rooms for chatting and upload images.
->>>>>>> e206fb89433cc05eac2581b86183ce22942bf75b
 
 ## Available Scripts
 
